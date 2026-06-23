@@ -4,7 +4,8 @@
   <h1>🚀 Welcome to EuropaVerse Studios!</h1>
 
   <p>
-    <strong>Indie Game Developer and newbie software developer</strong> ·
+    <strong>Indie Game Developer</strong>·
+    <strong>newbie software developer</strong> ·
     <strong>Godot 4.7</strong> Enthusiast ·
   </p>
 
