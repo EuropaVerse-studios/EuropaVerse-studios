@@ -6,7 +6,7 @@
   <p>
     <strong>Indie Game Developer</strong> · 
     <strong>Software Engineer</strong> · 
-    <strong>Godot & Unity Specialist</strong>
+    <strong>Godot Specialist</strong>
   </p>
 
   <p>
