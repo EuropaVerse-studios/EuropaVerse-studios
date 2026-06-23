@@ -1,10 +1,12 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EuropaVerse-studios&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/EuropaVerse-studios?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/EuropaVerse-studios?label=Stars&style=social" alt="Stars" />
 
   <h1>EuropaVerse Studios</h1>
-  
+
   <p>
-    <strong>Indie Game Developer</strong> · 
+    <strong>Game Developer</strong> · 
     <strong>Software Engineer</strong> · 
     <strong>Godot Specialist</strong>
   </p>
@@ -12,15 +14,15 @@
   <p>
     <em>Building immersive experiences, writing clean code, and pushing the boundaries of interactive entertainment.</em>
   </p>
-  
+
   <p>
-    Passionate about game design patterns, cross-engine development, and open-source collaboration.
+    Passionate about game design patterns, utility software development, and open-source collaboration.
   </p>
 </div>
 
 ---
 
-### 🛠️ Technical Proficiency
+## 🛠️ Technical Proficiency
 
 A comprehensive overview of my skillset, ranked by daily usage and practical experience:
 
@@ -32,13 +34,14 @@ A comprehensive overview of my skillset, ranked by daily usage and practical exp
 | <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript" /> | <img src="https://img.shields.io/badge/Proficiency-85%25-brightgreen?style=for-the-badge" alt="85%" /> |
 | <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> | <img src="https://img.shields.io/badge/Proficiency-60%25-yellowgreen?style=for-the-badge" alt="60%" /> |
 | <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /> | <img src="https://img.shields.io/badge/Proficiency-40%25-orange?style=for-the-badge" alt="40%" /> |
-| <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> | <img src="https://img.shields.io/badge/Proficiency-10%25-red?style=for-the-badge" alt="10%" /> |
+| <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> | <img src="https://img.shields.io/badge/Proficiency-15%25-orange?style=for-the-badge" alt="15%" /> |
+| <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /> | <img src="https://img.shields.io/badge/Proficiency-10%25-red?style=for-the-badge" alt="10%" /> |
 
 </div>
 
 ---
 
-### 🎮 Game Engine Mastery
+## 🎮 Game Engine Mastery
 
 <div align="center">
 
@@ -51,7 +54,18 @@ A comprehensive overview of my skillset, ranked by daily usage and practical exp
 
 ---
 
-### 📊 GitHub Analytics
+## 🚧 Current Projects & Focus Areas
+
+| Project | Description | Technologies | Status |
+|---------|-------------|--------------|--------|
+| **[DipRail](https://github.com/EuropaVerse-studios/DipRail)** | An open-source train simulator with realistic physics and modular architecture. | Godot 4.7, .NET, C# | <img src="https://img.shields.io/badge/Active%20Development-2ea44f?style=flat-square" alt="Active" /> |
+| **[Rinomina](https://github.com/EuropaVerse-studios/Rinomina)** | A lightweight CLI file management tool for efficient batch renaming and file operations. | Rust, CLI | <img src="https://img.shields.io/badge/Experimental-ffa500?style=flat-square" alt="Experimental" /> |
+| **Cross-language game dev** | Use multiple programming languages in a single project with Godot's modular GDExtension system | Godot, C#, GDScript, c++ | <img src="https://img.shields.io/badge/Research-dodgerblue?style=flat-square" alt="Research" /> |
+| **C++ & Systems Programming** | Expanding knowledge for engine-level optimization and tool development. | C++, Rust, GDExtension | <img src="https://img.shields.io/badge/Learning-ff69b4?style=flat-square" alt="Learning" /> |
+
+---
+
+## 📊 GitHub Analytics
 
 Real-time statistics reflecting my development activity and open-source contributions:
 
@@ -70,7 +84,7 @@ Real-time statistics reflecting my development activity and open-source contribu
 
 ---
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
 A visual representation of my recent contribution patterns and project engagement:
 
@@ -80,7 +94,7 @@ A visual representation of my recent contribution patterns and project engagemen
 
 ---
 
-### 🔥 Current Development Streak
+## 🔥 Current Development Streak
 
 Maintaining consistent progress across all active projects:
 
@@ -90,16 +104,7 @@ Maintaining consistent progress across all active projects:
 
 ---
 
-### 🚧 Current Projects & Focus Areas
-
-- **🚂 [DipRail](https://github.com/EuropaVerse-studios/DipRail)** – An open-source train simulator being developed with Godot 4.7 .NET, focusing on realistic physics and modular architecture[reference:2].
-- **🛠️ [Rinomina](https://github.com/EuropaVerse-studios/Rinomina)** – A lightweight CLI file management tool for efficient batch renaming and file operations[reference:3].
-- **⚙️ C++ Proficiency** – Expanding my systems programming knowledge for engine-level optimization and tool development.
-- **📖 Continuous Learning** – Researching advanced game design patterns, ECS architectures, and performance optimization strategies.
-
----
-
-### 📬 Let's Connect
+## 📬 Let's Connect
 
 I'm always open to collaboration, technical discussions, and new opportunities. Feel free to reach out!
 
